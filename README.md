@@ -1,5 +1,5 @@
 # Web_Quiz_Engine
-In this project, I will develop a multi-users web service for creating and solving quizzes.
+In this project, I developed a multi-users web service for creating and solving quizzes.
 
 1) Develop a simple JSON API that always returns the same quiz to be solved. 
 The API supports two operations: getting the quiz and solving it by passing an answer.
